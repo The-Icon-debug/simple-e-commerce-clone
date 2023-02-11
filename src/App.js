@@ -7,14 +7,14 @@ import {BrowserRouter as Router, Routes, Route, HashRouter} from 'react-router-d
 
 function App() {
   return (
-    <Router>
+    <HashRouter>
         <Routes>
           <Route path='/' element={<Home />} />
           <Route exact path="/addproduct" element={<AddProduct/>}/>
           <Route path="*" element={<NotFound/>}/>
         </Routes>
         <Footer />
-    </Router>
+    </HashRouter>
     
   );
 }

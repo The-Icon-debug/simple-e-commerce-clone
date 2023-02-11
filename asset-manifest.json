@@ -1,15 +1,15 @@
 {
   "main.css": "/simple-e-commerce-clone/static/css/main.11fd865e.chunk.css",
-  "main.js": "/simple-e-commerce-clone/static/js/main.8eb59b62.chunk.js",
-  "main.js.map": "/simple-e-commerce-clone/static/js/main.8eb59b62.chunk.js.map",
+  "main.js": "/simple-e-commerce-clone/static/js/main.4827d21f.chunk.js",
+  "main.js.map": "/simple-e-commerce-clone/static/js/main.4827d21f.chunk.js.map",
   "static/js/1.e8e3b76c.chunk.js": "/simple-e-commerce-clone/static/js/1.e8e3b76c.chunk.js",
   "static/js/1.e8e3b76c.chunk.js.map": "/simple-e-commerce-clone/static/js/1.e8e3b76c.chunk.js.map",
-  "static/js/2.c97cfc14.chunk.js": "/simple-e-commerce-clone/static/js/2.c97cfc14.chunk.js",
-  "static/js/2.c97cfc14.chunk.js.map": "/simple-e-commerce-clone/static/js/2.c97cfc14.chunk.js.map",
+  "static/js/2.66008381.chunk.js": "/simple-e-commerce-clone/static/js/2.66008381.chunk.js",
+  "static/js/2.66008381.chunk.js.map": "/simple-e-commerce-clone/static/js/2.66008381.chunk.js.map",
   "runtime~main.js": "/simple-e-commerce-clone/static/js/runtime~main.5fa1079d.js",
   "runtime~main.js.map": "/simple-e-commerce-clone/static/js/runtime~main.5fa1079d.js.map",
   "static/css/main.11fd865e.chunk.css.map": "/simple-e-commerce-clone/static/css/main.11fd865e.chunk.css.map",
   "index.html": "/simple-e-commerce-clone/index.html",
-  "precache-manifest.ac1ec9f1ba27fb6fc0c100cea841e609.js": "/simple-e-commerce-clone/precache-manifest.ac1ec9f1ba27fb6fc0c100cea841e609.js",
+  "precache-manifest.5aca61be5b013f0c459da4854b010b34.js": "/simple-e-commerce-clone/precache-manifest.5aca61be5b013f0c459da4854b010b34.js",
   "service-worker.js": "/simple-e-commerce-clone/service-worker.js"
 }

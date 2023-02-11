@@ -1,6 +1,7 @@
 import React, {useState, useEffect} from 'react'
+import {Link} from 'react-router-dom'
 import axios from 'axios'
-import Navbar from './Navbar'
+//import Navbar from './Navbar'
 import Product from './Product'
 
 const Home = () => {
@@ -37,11 +38,17 @@ const Home = () => {
   }
   return (
     <div className='home__main'>
-        <Navbar 
-        currentRoute='Home'
-        title='Product List'
-        handleDelete={handleDelete}
-        />
+       <nav className='navbar'>
+          <h1>Product List</h1>
+          <Link to='/addproduct'>
+            <button>
+            ADD
+            </button>
+          </Link>
+          <button id='delete-product-btn' onClick={handleDelete}>
+          MASS DELETE
+          </button>
+       </nav>
       <section className='home__products'>
         {products.length>0 && products.map(product =>{
           return (
